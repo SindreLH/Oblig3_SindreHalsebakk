@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2114615-39d1-4a0f-921b-d97e3a749b1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FSG9trWFtpZ9k4WXmCccoepZAB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_leap_year_checker.test_division_allowed_by_hundred_and_not_four_hundred">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_leap_year_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_leap_year_checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pytest-leapyear" type="tests" factoryName="py.test">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\sindr\PycharmProjects\SETH22 - Oblig2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_leap_year_checker.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\sindr\PycharmProjects\SETH22 - Oblig2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_leap_year_checker.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_all_conditions_are_false" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_all_conditions_are_false&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_divide_by_four" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_divide_by_four&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_divide_by_four_hundred" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_divide_by_four_hundred&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_divide_by_hundred" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_divide_by_hundred&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_division_allowed_by_four_and_not_hundred" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_division_allowed_by_four_and_not_hundred&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_division_allowed_by_four_hundred" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_division_allowed_by_four_hundred&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_division_allowed_by_hundred_and_not_four_hundred" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_division_allowed_by_hundred_and_not_four_hundred&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_division_by_four_hundred" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_division_by_four_hundred&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_division_by_four_or_four_hundred" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_division_by_four_or_four_hundred&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_division_not_allowed_by_four" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_division_not_allowed_by_four&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_if_divide_by_four_makes_possible" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_if_divide_by_four_makes_possible&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_if_leap_year" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_if_leap_year&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_leap_year_checker.test_if_not_leap_year" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="SETH22 - Oblig2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leap_year_checker.test_if_not_leap_year&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test_leap_year_checker" />
+      <item itemvalue="Python tests.Pytest-leapyear" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_all_conditions_are_false" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_divide_by_four" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_divide_by_four_hundred" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_divide_by_hundred" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_division_allowed_by_four_and_not_hundred" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_division_allowed_by_four_hundred" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_division_allowed_by_hundred_and_not_four_hundred" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_division_by_four_hundred" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_division_by_four_or_four_hundred" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_division_not_allowed_by_four" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_if_divide_by_four_makes_possible" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_if_leap_year" />
+      <item itemvalue="Python tests.pytest for test_leap_year_checker.test_if_not_leap_year" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_leap_year_checker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2114615-39d1-4a0f-921b-d97e3a749b1c" name="Default Changelist" comment="" />
+      <created>1664477923653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664477923653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/sindr/PycharmProjects/SETH22 - Oblig2/venv" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="232" key="#Notifications" timestamp="1665528671714">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="508" y="232" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1665528671714" />
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1664843459402">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664481575505" />
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1664843459402" />
+    <state x="93" y="93" width="1350" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1664485807948">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664485807948" />
+    <state x="527" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1664478397884">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="527" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664478397884" />
+    <state x="227" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1664482057402">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="227" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664482057402" />
+    <state x="548" y="163" key="FileChooserDialogImpl" timestamp="1664479855459">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="163" key="FileChooserDialogImpl/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664479855459" />
+    <state width="1515" height="59" key="GridCell.Tab.0.bottom" timestamp="1665491373123">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="299" key="GridCell.Tab.0.bottom/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664891814993" />
+    <state width="1899" height="432" key="GridCell.Tab.0.bottom/0.0.1536.816/6.-1080.1920.1032@6.-1080.1920.1032" timestamp="1664488822065" />
+    <state width="1515" height="59" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1665491373123" />
+    <state width="1515" height="59" key="GridCell.Tab.0.center" timestamp="1665491373122">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="299" key="GridCell.Tab.0.center/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664891814993" />
+    <state width="1899" height="432" key="GridCell.Tab.0.center/0.0.1536.816/6.-1080.1920.1032@6.-1080.1920.1032" timestamp="1664488822065" />
+    <state width="1515" height="59" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1665491373122" />
+    <state width="1515" height="59" key="GridCell.Tab.0.left" timestamp="1665491373122">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="299" key="GridCell.Tab.0.left/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664891814993" />
+    <state width="1899" height="432" key="GridCell.Tab.0.left/0.0.1536.816/6.-1080.1920.1032@6.-1080.1920.1032" timestamp="1664488822065" />
+    <state width="1515" height="59" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1665491373122" />
+    <state width="1515" height="59" key="GridCell.Tab.0.right" timestamp="1665491373123">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="299" key="GridCell.Tab.0.right/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664891814993" />
+    <state width="1899" height="432" key="GridCell.Tab.0.right/0.0.1536.816/6.-1080.1920.1032@6.-1080.1920.1032" timestamp="1664488822065" />
+    <state width="1515" height="59" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1665491373123" />
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1664489815624">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664489815624" />
+    <state width="1515" height="258" key="GridCell.Tab.1.center" timestamp="1664489815624">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.center/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664489815624" />
+    <state width="1515" height="258" key="GridCell.Tab.1.left" timestamp="1664489815623">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.left/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664489815623" />
+    <state width="1515" height="258" key="GridCell.Tab.1.right" timestamp="1664489815624">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.right/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664489815624" />
+    <state x="510" y="-709" key="SettingsEditor" timestamp="1665521144960">
+      <screen x="6" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664480908836" />
+    <state x="510" y="-709" key="SettingsEditor/0.0.1536.816/6.-1080.1920.1080@0.0.1536.816" timestamp="1665521144960" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1665528659712">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816/6.-1080.1920.1080@0.0.1536.816" timestamp="1665522726806" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665528659712" />
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665522706383">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816/6.-1080.1920.1080@0.0.1536.816" timestamp="1665522706383" />
+    <state x="570" y="315" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1665523079958">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="570" y="315" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.816/6.-1080.1920.1080@0.0.1536.816" timestamp="1665523079958" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1664479974329">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/6.-1080.1920.1032@0.0.1536.816" timestamp="1664479974329" />
+  </component>
+</project>
