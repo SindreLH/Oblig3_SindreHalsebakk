@@ -1,0 +1,25 @@
+name: Run testing for new push commands
+on: [push]
+jobs:
+    build:
+      name: Build environment
+      runs-on: ubuntu-latest
+      steps:
+      
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Python setup
+        uses: actions/setup-python@v2
+        with:
+            python-version: '3.10'
+            
+      - name: Install dependencies from requirements.txt
+        uses: actions/checkout@v2
+      - run: |
+          pip3 install -r requirements.txt
+          
+      - name: Run tests on main.py 
+        uses: actions/checkout@v2
+      - run: |
+          pytest
