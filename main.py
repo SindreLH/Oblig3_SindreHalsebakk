@@ -30,3 +30,5 @@ def is_leap_year(year: int):
     if year % 100 == 0 and 400 != 0:
         print("Condition 4 - NOT leap year")
         return False
+
+# Adding a comment, pushing change to GitHub repo, in order to test GitHub actions.
