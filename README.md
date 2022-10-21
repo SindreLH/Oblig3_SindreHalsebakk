@@ -1,15 +1,15 @@
 # Oblig3_SindreHalsebakk
 
-Opprettet repository lokalt med relevante filer:
+*Opprettet repository lokalt med relevante filer:
   *main.py med logikk
   *test_leap_year_checker.py med tester
   *requirements.txt med avhengigheter
   
-Opprettet public remote repository på GitHub
+*Opprettet public remote repository på GitHub
   *README.md ble opprettet
   *Pushet nevnte filer til remote repository
 
-Opprettet .github/workflows-mappe og skrev egen workflow
+*Opprettet .github/workflows-mappe og skrev egen workflow
   *Oblig3_SindreHalsebakk.yml:
     *Definerer ny job og dens trigger 
     *Bygger nytt miljø med siste ubuntuversjon 
@@ -18,7 +18,7 @@ Opprettet .github/workflows-mappe og skrev egen workflow
     *Installerer avhengigheter fra requirements.txt
     *Kjører pytest på logikk
     
-Testing av workflow:
+*Testing av workflow:
   * Kommenterte koden:
     * Committet og pushet til GitHub, workflow kjørte, alle tester passerte
 
