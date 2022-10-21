@@ -27,4 +27,4 @@ def test_division_not_allowed_by_four():
 def test_division_allowed_by_hundred_and_not_four_hundred():
     assert is_leap_year(2001) is False
     assert is_leap_year(2003) is False
-    assert is_leap_year(2006) is False
+    assert is_leap_year(2006) is True
